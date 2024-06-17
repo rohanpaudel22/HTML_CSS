@@ -1,0 +1,26 @@
+.name , .email {
+
+  display:block;
+  margin-top: 10px;
+}
+
+.text {
+
+  width: 230px;
+  text-align: justify;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.yes {
+
+  vertical-align: middle;
+  margin-left: 20px;
+  
+ 
+}
+
+.no {
+
+  vertical-align: middle;
+}

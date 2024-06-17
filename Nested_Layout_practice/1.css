@@ -1,0 +1,73 @@
+.main-div {
+
+  width: 600px;
+  height:150px;
+  border: none;
+  background-color: rgb(227, 222, 222);
+  display: inline-block;
+margin-top: 55px;
+  margin-left: 55px;
+}
+
+.img-div {
+
+  display: inline-block;
+  margin-top: 18px;
+  vertical-align: top;
+}
+
+.img {
+
+  width:100px;
+  height:100px;
+  border-radius: 50px;
+
+}
+
+.info-div {
+
+  display: inline-block;
+  padding-left: 10px;
+  vertical-align: top;
+  
+}
+
+.name {
+
+  font-family: Roboto , Arial;
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+}
+
+p{
+
+  font-size: 18px;
+}
+
+.cat , .popular {
+
+  color: rgb(96,96, 96);
+}
+
+.follow-div {
+
+  display: inline-block;
+  margin-left:250px;
+  
+}
+
+.follow-button {
+
+  margin-top: 50px;
+  width:150px;
+  height:50px;
+  border-radius: 8px;
+  color: white;
+  background-color: rgba(2, 86, 255, 0.738);
+  border: none;
+  font-size: 20px;
+  font-family: Roboto , Arial;
+
+}
+

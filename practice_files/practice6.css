@@ -1,0 +1,38 @@
+.text {
+
+  font-size: 36px;
+  font-family:Arial;
+  font-weight: bold;
+}
+
+.pickup-location , .destination {
+
+  display: block;
+  margin-top: 10px;
+  width: 400px;
+  height: 35px;
+
+}
+
+.request-button , .schedule-button {
+
+  
+  margin-top: 34px;
+  background-color: black;
+  color: white;
+  width: 150px;
+  height:40px;
+  font-size: 16px;
+  border: none;
+  
+  
+}
+
+.schedule-button {
+
+background-color:#959594;
+
+margin-left: 30px;
+}
+
+

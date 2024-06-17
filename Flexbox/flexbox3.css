@@ -1,0 +1,59 @@
+.first-profile {
+
+  display: flex;
+  border: 1px solid gray;
+  flex-direction: row;
+  align-items: center;
+  width:700px;
+  height:130px;
+  margin-top: 20px;
+  
+  border: none;
+  
+}
+
+.image-div {
+
+  display: flex;
+
+  align-items: center;
+  margin-left: 20px;
+}
+
+.img {
+
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  object-fit: cover;
+  margin-top: 13px;
+}
+
+.text-div {
+
+  display: flex;
+  flex-direction: column;
+ 
+
+  margin-left: 20px;
+}
+
+.button-div {
+
+  display: flex;
+  flex: 1;
+  justify-content: end;
+  
+}
+
+.follow-button {
+
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(54, 54, 239);
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+}

@@ -1,0 +1,63 @@
+.div-square {
+
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+
+}
+
+.circle {
+
+ display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: green;
+  margin-left: 15px;
+}
+
+.text {
+
+  margin-top: 50px;
+  width: 300px;
+  height: 100px;
+  border: 2px;
+  border-style: solid;
+
+}
+
+.service-review {
+
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.yes-button , .no-button {
+
+  margin-left:5px ;
+  cursor: pointer;
+}
+
+.youtube-music {
+
+  margin-top: 70px;
+  width: 350px;
+  height: 110px;
+  background-color: rgba(41, 38, 38, 0.933);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.install {
+
+  padding-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.paragraph {
+
+  margin-left: 10px;
+}
